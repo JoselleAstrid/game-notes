@@ -623,3 +623,8 @@ Note that this part will be done differently if your fruit strat involves the fi
   - If it regenerates health, you'll have to win the hard way. Remember to give attacking priority to any blobs on the ground.
 - Congrats, you finished the run!
 
+
+
+## Acknowledgments
+
+Thanks to Claris for teaching me most of what I know about this run. (However, I am responsible for any mistakes or omissions in these notes, not her.)
