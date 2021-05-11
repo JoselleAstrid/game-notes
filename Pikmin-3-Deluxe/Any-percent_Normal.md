@@ -158,7 +158,6 @@ The plan:
 - After the cutscene, call the 6 Rock Pikmin and then charge them at the crystal. Once they hit the crystal, whistle and charge again. It takes 10 hits so you have room to mess up a bit.
   
 - Walk back and pick up the Red Pikmin; leave the Rock Pikmin to start carrying the jellyfloat. Toss up to 6 Red Pikmin at the jellyfloat, to help with the carrying while not outnumbering the Rock Pikmin. Pluck all 8 of the sprouts. Exit the cave.
-  
 ### After the Rock Onion cave
 
 - Dodge the data file, then walk near the glass wall and charge all your Rock Pikmin at it. Do this before walking too far forward, which will make Alph stop and say "Brittany is on the other side of this wall."
@@ -575,19 +574,33 @@ Note that this part will be done differently if your fruit strat involves the fi
 ### Cave: Up to the dark room
 
 - Switch to Rock Pikmin and charge them at the Bearded Amprat to defeat it. While they're attacking, switch to Red Pikmin. Then whistle back the rocks. This will put rocks to the left of reds in the Pikmin type switching order.
+
 - Switch to Rock Pikmin and walk to the crystal, making sure no Pikmin get stuck on the circular rock formation. Point at the crystal, charge Rock Pikmin at it with X, point at the bridge pieces, then charge Red Pikmin at them with X. The Pikmin type order should work out if you did the previous part correctly.
   - If you did get Rock Pikmin stuck on the circular rock formation, then the game will still think you have Rock Pikmin to charge, and it won't switch immediately to Red Pikmin, so you'll have to do that switch manually (after a slight delay due to the first charge's animation).
+  
 - Call back your Rock Pikmin so that they're safe from the Fiery Blowhog. Do the whistle after the charges, and before the Red Pikmin walk too far forward with the bridge pieces.
   - To avoid whistling the Red Pikmin, you can aim your cursor at the border of the circular rock formation. Your priority is to pick up Rock Pikmin outside the circular rock formation; the ones inside shouldn't be bothered by the blowhog.
+  
 - Walk near the sand gate and toss Charlie at that general direction. Then charge all your reds at the sand gate.
   - You should be Alph here, and the captain closer to you may be either Brittany or Charlie. Hold A to grab a captain; if it's Charlie, toss him at the sand gate and then charge reds. If it's Brittany, toss her toward the bridge, then toss Charlie, then charge reds.
   - To get reds onto the sand gate reliably, lock onto it before charging. As an optimization, begin to walk away, then charge, similar to the spicy berry plant in Twilight River. (Your ability to change movement direction is hampered during the charge animation.)
   - Advanced: on your way toward or back from the sand gate, toss a few (like 4) Winged Pikmin to the side of the bridge, in or near the ditch.
+  
 - Walk up the unfinished bridge and toss Brittany across. Then toss 2 rocks at the Arachnode to defeat it.
-  - You can do the tossing in either order. But you want to toss Brittany across before the Pikmin carrying Olimar get to this point. If you have trouble with that (e.g. you miss the Arachnode sometimes), then tossing Brittany before tossing the rocks can help.
+  - You can do the tossing in either order. But you want to toss Brittany across before the Pikmin carrying Olimar get to this point (see "Note 1" a little later). If you have trouble with that (e.g. you miss the Arachnode sometimes), then tossing Brittany before tossing the rocks can help.
+  
 - Switch to Brittany. Whistle at least 10 reds (whistling the whole group of 30 reds from the bridge pieces is fine). You can whistle some rocks, but make sure Alph still has some rocks to work with later.
   - Advanced: whistle the few Winged Pikmin you tossed earlier, if you can. This just lets you dismiss a second earlier as Brittany later. Just make sure not to whistle anything that you shouldn't. Definitely don't whistle off the Pikmin carrying Olimar, and don't whistle too many rocks so that Alph has some to work with.
+  
 - Walk to the next area.
+
+- (Note 1) If you were too slow during this section, then the following happens:
+
+  1. The Winged Pikmin carrying Olimar get close to Brittany at the bridge. This makes them cross the bridge much faster than usual. Normally (when Brittany stays far away), the Pikmin carrying Olimar get kind of stuck at the bridge initially, then they back up and then fly high over the bridge.
+  2. The Winged Pikmin carrying Olimar catch up to Brittany much faster than usual.
+  3. Plasm Wraith catches up to Olimar in the next area much faster than usual, since Plasm Wraith moves faster when Olimar is further away.
+
+  If you notice this happening, pay extra attention to the warning-bell sounds when you're playing as Alph and Charlie later. If you hear the warning bells, Plasm Wraith may be very close to Olimar, so switch to Brittany and move Olimar away. This should become a rarer situation as you practice this day more, but if you're still learning then it's something to watch out for.
 
 ### Cave: To the exit
 
