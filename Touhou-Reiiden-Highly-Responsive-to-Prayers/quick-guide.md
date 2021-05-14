@@ -14,7 +14,9 @@ Defeat bosses by making the orb hit the boss.
 
 ![](quick-guide_images/boss.jpg)
 
-You start out with 5 lives by default. If you get hit by the orb, bullets, or other enemy attacks, you lose a life.
+Watch the orb carefully, because if you get hit by the orb yourself, you lose a life. You have to time your attacks well to safely deflect the orb.
+
+You also lose a life if you get hit by bullets or other enemy attacks. You start out with 5 lives by default.
 
 ![](quick-guide_images/enemy-attacks.jpg)
 
