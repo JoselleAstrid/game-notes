@@ -67,24 +67,19 @@ The plan:
 ### Alph's section start
 
 - Walk to the Red Onion.
-  
 - Whistle the red Pikmin over. Lock onto the Onion. Toss the Pikmin onto the Onion.
-  
 - Toss the 3 red Pikmin to 3 of the bridge pieces; doesn't matter which ones. Try to do this before reaching the point where Alph stops with "What's this pile of rubble?".
-  
 - Whistle the lone red Pikmin and dismiss it so that it goes for a bridge piece.
-  
 - Focus on speeding up the 3 Pikmin instead of the lone one. Push them while they're carrying bridge pieces. Once they've tossed in the pieces they're carrying, whistle them and then toss them to the pile again; since they're leaves, this'll be faster than letting them walk back themselves.
   
   - Be careful not to call them back before they toss in the pieces though, otherwise the pieces will despawn and reappear in the pile they came from.
-  
-- As the last bridge pieces get tossed in, try to call back a Pikmin or two so that you end up with 2 or 3 in your command after the cutscene. After the cutscene, call back the Pikmin which are heading back to the (now empty) bridge piece pile.
-  
+- As the last bridge pieces get tossed in, turn the camera around and do a long whistle at the (now empty) bridge piece pile. Keep whistling until the cutscene happens. After the cutscene, all 4 Red Pikmin should be following right behind you.
+  - If you messed up the whistle: after the cutscene, you'll have to call back the Pikmin which are heading back to the (now empty) bridge piece pile.
 - Walk forward to activate the KopPad tutorial. Press the left stick inward to speed up movement, and tilt it up-left to move there; meanwhile, tilt the right stick down to zoom out to further speed up movement.
 
 ### Alph's section after the bridge
 
-- You should have 4 red Pikmin with you or trying to catch up to you. Toss 1 red Pikmin onto each of 3 pellet posies.
+- You should have 4 red Pikmin with you (or trying to catch up to you). Toss 1 red Pikmin onto each of 3 pellet posies.
   
 - Make the sheargrubs come out as early as possible by walking there. When the 4th red Pikmin catches up, try to toss it onto the sheargrubs a couple times (3+ tosses runs the risk of you losing time by getting back to the Onion late). After those 2 toss attempts, toss the 4th Pikmin up to the 5-pellet posy's stalk so that the Pikmin starts attacking it.
   
@@ -499,7 +494,8 @@ Note that this part will be done differently if your fruit strat involves the fi
 
 ### Start
 
-- Withdraw winged first, then reds and rocks together. The Onion menu's weird without yellows. Ideally draw 99; if you draw 100, then the blue sprout that appears later will put a random(?) other Pikmin back. But no big deal if you draw 100.
+- Withdraw winged first, then reds and rocks together. The Onion menu's weird without yellows. Draw 99 or 100 Pikmin total.
+  - If you draw 100, the sprout from the Blue Onion later will put a random(?) other Pikmin back. If a Winged Pikmin happens to get put back, that can make bookkeeping a bit more tricky. This won't happen if you draw 99 or fewer. However, if you scroll the number all the way to 100, just withdraw 100 - it's not worth taking the extra couple of seconds to scroll back to 99.
 - Walk past the sand gate and toss a red Pikmin at the eggs on the right. Not really important, but it'll be slightly useful later.
 - Walk forward, lock onto the Blue Onion and toss 3 Winged Pikmin at it.
   - Don't just toss at the vicinity or the Winged Pikmin will start drowning. So locking on makes this safer. If you choose not to lock on, watch that your throwing line is pink, not light blue, when throwing.
