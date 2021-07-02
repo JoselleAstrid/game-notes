@@ -107,9 +107,9 @@ The plan:
 
 
 
-## DAY 2
+## DAY 2 - Garden of Hope
 
-
+Overview: At the end of the day we'll have 67 Red and 14 Rock Pikmin (assuming no Pikmin losses), ideally all flowered. It's OK to have a few less Pikmin, but having more will make tasks faster/easier later in the run. Some players grow 1 more Red Pikmin from the butterfly near the Onion.
 
 ### Cutscenes
 
@@ -138,7 +138,7 @@ The plan:
   
 - You should see a bunch of Pikmin finishing up the bridge. Call them back before they return to the empty bridge piece piles. Do not actually cross the bridge till it's actually fallen down, otherwise there is a chance of Pikmin getting left behind at the corners for whatever reason.
 
-### After the bridge
+### After the first bridge
 
 - Cross the bridge. Toss 2 Pikmin at the pellet posies on the right. Charge your remaining Pikmin at the Red Bulborb's side to take it out. Once it's defeated, call those Pikmin back and then re-charge so that exactly 10 (the carry amount) get on. Proceed with the remaining Pikmin past the gate.
   
@@ -183,8 +183,8 @@ The plan:
 - Toss 1 Red Pikmin on one Fiery Blowhog if both are still alive. Toss 1 Red Pikmin at the 5-pellet posy. Toss 5 Red Pikmin at one Fiery Blowhog so that they bring that one back. Take the rest of your Pikmin to the water crossing spot.
   - Tossing 5 at the blowhog farther from the Onion should make the end of day's carrying work slightly quicker.
 - Toss Brittany and all your Pikmin across the water. Switch to Brittany, then toss 6 Rock Pikmin at the crystal at right. Charge the rest of your Pikmin at the gate; get close enough so the charge gets them all onto the gate.
-  
-  - There are faster, slightly more complex strats for this part, but this is the simple way to distribute the Pikmin.
+  - There are faster, slightly more complex strats for distributing Pikmin here, but this is a relatively simple way.
+  - There's a way to get the Pikmin to swim across instead of tossing them over, but this guide doesn't cover it yet.
 - Walk back to the 6 Rock Pikmin; they should have broken the crystal there. Get 3 of them carrying the bridge pieces on that side, and toss the other 3 to the bridge pieces on the other side.
 - Switch to Alph. Walk back to the Onion, close enough to start plucking, and switch back to Brittany.
 - Wait for the gate to get torn down, then bring the Pikmin at the gate to the boss area.
@@ -217,7 +217,9 @@ The plan:
 
 
 
-## DAY 3
+## DAY 3 - Distant Tundra
+
+Overview: We'll skip activating the Yellow Onion. This saves nearly 30 seconds at the end of the day by skipping the Onion-merging cutscene. The skip also involves exiting the starting cave without getting 20 Yellow Pikmin at the start, which saves additional time if it goes well. We'll also do a lot of out-of-bounds walking to skip straight to the Vehemoth Phosbat. The Yellow Onion skip is difficult and may not be worth it for novice runners, but all runners should try to learn the out-of-bounds strat.
 
 ### Cave
 
@@ -288,7 +290,7 @@ Once you're out of bounds, your general goal is to walk to the Phosbat cave exit
 - Get all the Pikmin out of Alph's control. To do this, either dismiss twice, or charge the Pikmin at the electric gate.
   - This step is needed because the captains aren't considered reunited yet, and thus Brittany can't whistle Alph, nor can she whistle any Pikmin under his control.
 - Switch to Brittany. Walk up the paper bag and stand on the "10", at the corner farther from the Phosbat cave. Turn the camera so that the incomplete blue bridge is roughly at the center.
-- Do a long whistle starting at the Pikmin near the Onion, then sweeping to the right side of the top edge of the screen to get the Yellow Pikmin. Then quickly walk off the bag and into the cave.
+- Do a long whistle starting at the Pikmin near the Onion, then sweeping to the right side of the top edge of the screen to get the Yellow Pikmin. Then quickly walk off the bag and into the cave. This is a loading-zone Pikmin warp; as long as you enter the cave within several seconds of whistling, all of the Pikmin will be with you once you enter the cave.
 
 ### Vehemoth Phosbat
 
@@ -320,7 +322,11 @@ Once you're out of bounds, your general goal is to walk to the Phosbat cave exit
   - Restart the day. This is your fastest option if the Phosbat has too much remaining HP and you lost a yellow.
 - Once the Phosbat is defeated, skip the cutscenes and end the day.
 
-## Day 4
+
+
+## DAY 4 - Tropical Wilds
+
+Overview: We'll skip straight to the Sandbelching Meerslug using a captain clip and a loading-zone Pikmin warp. We'll grow 15 more Rock Pikmin at the end of the day, since there's time while waiting for the phone to be brought back.
 
 ### Dialogue
 
@@ -377,7 +383,11 @@ There's a strat involving using bomb rocks in phase 3. This will guarantee that 
 - Have reds carry the orange back, and have rocks carry the Whiptongue Bulborb back so that you grow more rocks. Make sure the phone gets back before the bulborb does, or very soon after.
 - As soon as the bulborb begins to get beamed by the Onion (it should start glowing and rocking back and forth), you can end the day and get the Rock Pikmin seeds to count. You should end the day before the bulborb's Pikmin seeds start to come out of the Onion, otherwise you'll have to pluck the sprouts to get them to count.
 
-## Day 5
+
+
+## DAY 5 - Twilight River
+
+Overview: We'll skip to the Winged Onion using a captain clip. We'll skip straight to the Scornet Maestro by first using the persimmon (Portable Sunset) for a boost to get out of bounds, and then using a loading-zone Pikmin warp. Skipping the bridge building means we'll have to clip Louie through an invisible wall to bring him back. This guide does not cover getting bomb rocks yet.
 
 ### Free the Winged Onion
 
@@ -490,7 +500,11 @@ Note that this part will be done differently if your fruit strat involves the fi
 - There should be a bunch of Pikmin waiting at the unfinished blue bridge past the Onion (these were carrying the berries). Whistle them.
 - Wait for Louie to get back to the S.S. Drake, and end the day.
 
-## Day 6
+
+
+## DAY 6 - Garden of Hope
+
+Overview: We'll skip straight to the Quaggled Mireclops using a captain clip and a loading-zone Pikmin warp.
 
 ### Start
 
@@ -543,7 +557,11 @@ Note that this part will be done differently if your fruit strat involves the fi
 - Time the bulborb carry-back so that it gets beamed up just after (or about the same time as) Louie, and end the day as the bulborb gets beamed up, so that the Pikmin count without having to pluck the sprouts.
   - The point of this is to grow extra Winged Pikmin for Day 7. Not strictly necessary, but nice to have.
 
-## Day 7
+
+
+## DAY 7 - Formidable Oak
+
+Overview: We'll use Winged Pikmin to carry Olimar through a more direct route, and we'll gather bomb rocks to (hopefully) defeat Plasm Wraith very quickly.
 
 ### Start
 
